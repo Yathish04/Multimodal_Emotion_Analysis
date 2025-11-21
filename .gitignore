@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+emod/
+emod_venv/
+venv/
+env/
+
+# Database
+*.db
+*.sqlite3
+
+# Uploads and Data
+uploads/
+wav2vec2_checkpoints/
+
+# OS specific
+.DS_Store
+Thumbs.db
